@@ -1,0 +1,16 @@
+﻿/* CSS layout */
+#masthead {
+	background-image: url('../../Microsoft Press/HTML 5 SBS/17Expression/images/leaf-green.jpg');
+	padding-top: 16px;
+	padding-left: 16px;
+}
+#top_nav {
+}
+#page_content {
+}
+#footer {
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+}

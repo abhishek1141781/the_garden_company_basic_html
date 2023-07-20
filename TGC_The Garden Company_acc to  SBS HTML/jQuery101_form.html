@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equip="Content-Type" content="text/html; charset=utf-8">
+<title>jQuery 101</title>
+<script type="text/javascript" src="jquery-3.6.0.js"></script>
+<style type="text/css">
+	.errorclass { 
+	    background-color: red;
+	}
+</style>
+</head>
+
+<body>
+<form id="myForm" name="myForm" action="#" method="post">
+<p>Answer: <input id="firstName" type="text" name="firstname"></p>
+<p><input type="submit" name="formSubmit" value="Check Form"></p>
+</form>
+
+<script type="text/javascript">
+   $(document).ready(function() {
+      $("#myForm").submit(function() {
+	if ($("$firstName").val() == "Yes") {
+	    $("#firstName").removeClass("errorClass");
+	    alert("Form entered correctly");
+	} else {
+	    $("#firstName").addClass("errorclass");
+	    return false;
+	}
+    });  //end document submit function
+  }); // end document ready funtion
+
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
+

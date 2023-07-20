@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equip="Content-Type" content="text/html; charset=utf-8">
+<title>JavaScript 101</title>
+</head>
+<body>
+<div id="contentDiv">Your first JavaScript page.</div>
+<script type="text/javascript">
+	var divContent = document.getElementById("contentDiv");
+	divContent.style.backgroundColor = "#abacab";
+</script>
+</body>
+</html>
+
+
+
+
+
+
+

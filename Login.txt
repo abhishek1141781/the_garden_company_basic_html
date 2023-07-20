@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>The Garden Company</title>
+<link rel="stylesheet" type="text/css" href="default.css">
+
+</head>
+
+<body>
+<p>
+1. Click in the Login box<br>
+2. Type <kbd>Premium</kbd><br>
+3. Click in the Password box<br>
+4. Type <kbd>Customer</kbd>
+
+
+
+</p>
+
+
+
+
+
+</body>
+</html>

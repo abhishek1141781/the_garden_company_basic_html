@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<title> The Garden Company</title>
+</head>
+
+<body>
+<h1> 
+Login Instructions
+</h1>
+
+<p> 
+Thank you for signing up for our Preferred Customer Program! Membership in this program gives you access to the premium content in the secure area of our Web site.
+</p>
+
+<p>To Log in:</p>
+<ol>
+<li>Click in the Login box</li>
+<li>Type <b><kbd>Premium</kbd></b></li>
+<li>Click in the password box</li>
+<li>Type <b><kbd>Customer</kbd></b></li>
+</ol>
+
+<p>Enjoy the Site!</p>
+<p>The Garden Company</p>
+</body>
+
+</html>
+
+
+
+
+
+
+
+

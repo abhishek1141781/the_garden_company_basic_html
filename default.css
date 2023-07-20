@@ -1,0 +1,22 @@
+hr {color: red; background-color: pink; height: 5px; width: 75%;  margin-left: 0;}
+h1,h3 {color: yellow; font-size: 28px; background-color: navy}
+h3 {font-size: 4em}
+
+ul {list-style-type: square;font-weight:normal}
+ol {list-style-type: lower-alpha;font-weight:bold}
+ol ul {list-style-type: circle}
+ul b {color: white}
+ul ul {list-style-type: circle;font-style: italic}
+.England {color: red}
+.Brazil {color: yellow}
+.Holland {color: orange}
+.scotland {color: crimson}
+.africa {color: teal}
+a:link {color: brown}
+a:visited {color: blue}
+a:focus {color: white; font-size: 32px}
+a:hover {color: yellow}
+a:active {color: blue}
+p {font-family: "times","magneto", cursive, sans-serif}
+.copyright {font-family: "algerian", serif}
+p {font-size: 16px; font-style: italic}

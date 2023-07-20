@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>Meta Tags</title>
+<meta name="keywords" content="fuck, piss, shit, etcetera">
+<meta http-equiv="refresh" content="3; url=http://www.goal.com/">
+
+
+</head>
+
+<body>
+
+
+
+
+
+
+</body>
+</html>
